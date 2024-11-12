@@ -1,3 +1,3 @@
-module github.com/learning-go-book-2e/workspace_lib
+module github.com/mat-sik/workspace_lib
 
 go 1.23.2
